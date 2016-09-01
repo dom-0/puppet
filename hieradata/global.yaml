@@ -1,0 +1,4 @@
+---
+    puppet:
+      running: 'running'
+      atboot: true
